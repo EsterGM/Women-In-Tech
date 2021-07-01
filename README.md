@@ -1,6 +1,7 @@
 # Women-In-Tech
 
 1.- Dataset’s discussion
+
 a) School Level Summary Statistics 2020.xlsx
 This file contains information about pupils attending at each level in every school in Scotland. 
 There is specific information of both genre boys/girls for the total of each school but not for grades.
@@ -8,6 +9,7 @@ Column D of school type is not entirely correct, as some schools offer primary a
 The number of schools listed is 2477.
 
 b) Schools contacts list.xlsx
+
 This file does not contain the independent schools. The number of schools listed is 2467. 
 
 My idea was to join both files, however, due to the difference in the number of lines affected, which does not match between both files, I decided to make a copy of the addresses into the file of the summary statistics using Excel – vlookup function.
@@ -31,9 +33,11 @@ These 3 schools lacked the contact details. In order to find them, I looked for 
 In total I obtained data on 2477 schools in Scotland, without independent schools and colleges. 
 
 c) Denominations of the schools
+
 If this database is used in the future for further comparisons that are out of scope of this project, I verified the denominations of the schools used in the file of “Schools Contact List” and the “Summary Statistics 2020”. There are discrepancies, highlighted by a comparison made in column BL. The “false” rows are in pink. I believe that the best column to use for denominations should be the one in the contact list file, added in column R.
 
 d) Computer subjects in the datasets
+
 None of the datasets that I checked in the website of the Scottish Government contain data on the subjects taught in schools. There is a pool of information in teachers and pupils, but the numbers are added for the whole country and not specified by school. 
 
 In order to find how many pupils studied CS, I consulted the website of the SQA, https://www.sqa.org.uk/sqa/91419.html. The latest information available is for the year 2018/2019 (this academic year is not yet finished). All data are divided by the type of certification and/or level obtained as per the Curriculum for Excellence. Due to this, I am obliged to collate the data for only CS / Information Technology and similar subjects that appear in each of those files and also for the previous years, in order to obtain historical data. The tables that I need are Table 3 and Table 4 of each file. The numbers are in percentage, so I will need to transform them back to integers, in order to represent them (percentages can be the same for different initial amounts. For example, 5000 students one year can yield 50% women and 50% men, and the next year, 500 students can have the same percentage, however the initial data shows a big decrease from 5000 to 500).
