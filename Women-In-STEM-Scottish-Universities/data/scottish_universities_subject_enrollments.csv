@@ -1,0 +1,36 @@
+﻿﻿Title:,Table 49 - HE student enrolments by HE provider and subject of study,,,,,,,,,,,,,,,,,,,,,,,,,,
+Subtitle:,Academic year 2019/20,,,,,,,,,,,,,,,,,,,,,,,,,,
+Reference ID:,DT051 Table 49,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data source:,HESA,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-49,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-49.csv,,,,,,,,,,,,,,,,,,,,,,,,,,
+Licence:,Creative Commons Attribution 4.0 International Licence,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date:,2021,,,,,,,,,,,,,,,,,,,,,,,,,,
+Filters:,Country of HE provider,Scotland ,,,,,,,,,,,,,,,,,,,,,,,,,
+,Region of HE provider,All ,,,,,,,,,,,,,,,,,,,,,,,,,
+,Level of study,All undergraduate ,,,,,,,,,,,,,,,,,,,,,,,,,
+,Mode of study,Full-time ,,,,,,,,,,,,,,,,,,,,,,,,,
+,Academic year,2019/20 ,,,,,,,,,,,,,,,,,,,,,,,,,
+Search:,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UKPRN,HE provider,Abbreviation,01 Medicine and dentistry,02 Subjects allied to medicine,03 Biological and sport sciences,04 Psychology,05 Veterinary sciences,"06 Agriculture, food and related studies",07 Physical sciences,08 General and others in sciences,09 Mathematical sciences,10 Engineering and technology,11 Computing,12 Geographical and environmental studies (natural sciences),"13 Architecture, building and planning",12 Geographical and environmental studies (social sciences),14 Humanities and liberal arts (non-specific),15 Social sciences,16 Law,17 Business and management,18 Communications and media,19 Language and area studies,"20 Historical, philosophical and religious studies",21 Creative arts and design,22 Education and teaching,23 Combined and general studies,Total
+10007849,Abertay University,AU,0,260,310,400,0,160,75,0,0,135,"1,295",0,0,0,0,380,205,435,0,0,0,0,0,0,"3,665"
+10007772,Edinburgh Napier University,ENU,0,"1,880",520,250,180,30,0,0,0,540,"1,440",0,430,0,0,470,265,"1,905",255,365,0,810,0,30,"9,365"
+10007762,Glasgow Caledonian University,GCU,90,"3,990",105,445,0,70,170,0,0,"1,135","1,195",0,565,0,0,785,285,"2,675",325,40,0,315,0,0,"12,185"
+10002681,Glasgow School of Art,GSoA,0,0,0,0,0,0,0,0,0,45,30,0,280,0,0,15,0,0,0,5,225,"1,010",0,0,"1,605"
+10007764,Heriot-Watt University,HWU,0,0,330,300,0,60,440,5,630,"2,020",445,70,485,0,0,265,25,"1,600",0,290,0,630,0,0,"7,605"
+10005337,"Queen Margaret University, Edinburgh",QMU,0,"1,165",60,235,0,0,0,0,0,0,0,0,0,0,0,175,0,590,385,0,0,360,125,0,"3,105"
+10005500,Robert Gordon University,RGU,0,"2,325",155,0,0,0,125,0,0,505,600,0,570,0,0,560,380,"1,715",465,0,0,680,0,0,"8,080"
+10005561,Royal Conservatoire of Scotland,RCS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,805,100,0,900
+10005700,SRUC,SRUC,0,0,0,0,60,900,0,50,0,0,0,95,0,0,0,0,0,40,0,0,0,0,0,0,"1,150"
+10007783,The University of Aberdeen,UoA,"1,070",370,880,685,0,5,375,0,120,935,160,115,50,85,0,"1,200",875,710,0,600,565,210,505,5,"9,510"
+10007852,The University of Dundee,UoD,"1,225","2,335",300,435,0,0,135,0,220,520,365,260,290,0,45,590,615,615,35,315,350,"1,180",415,10,"10,255"
+10007790,The University of Edinburgh,UoE,"1,145",580,"1,605",620,745,75,"1,530",10,825,"1,735","1,060",200,510,330,60,"2,595",895,"1,385",0,"2,365","2,340","1,200",520,60,"22,395"
+10007794,The University of Glasgow,UoG,"1,925",840,"1,295",545,730,45,"1,045",0,715,"1,745",910,205,25,220,0,"1,800",865,920,35,"1,675","1,520",560,935,0,"18,555"
+10007803,The University of St Andrews,UoStA,575,75,460,475,0,0,835,35,485,0,395,225,0,180,0,"1,350",0,360,95,"1,030","1,110",0,0,100,"7,790"
+10007804,The University of Stirling,UoS,0,"1,045",985,665,0,45,5,20,95,0,440,250,0,0,0,"1,070",390,"1,145",440,520,490,70,420,0,"8,100"
+10007805,The University of Strathclyde,UoSc,0,"1,015",430,420,0,0,915,15,475,"3,725",630,0,365,0,0,940,895,"2,040",130,615,325,135,810,95,"13,960"
+10007800,The University of the West of Scotland,UoWoS,0,"2,855","1,150",515,0,0,250,0,10,585,"1,000",0,0,0,0,"1,750",190,"2,455",285,0,0,540,325,0,"11,900"
+10007114,University of the Highlands and Islands,UoH&I,40,570,315,105,0,135,120,75,0,420,280,80,95,0,0,"1,030",0,925,40,155,305,755,65,0,"5,510"
+,Total,,"6,065","19,310","8,895","6,095","1,715","1,530","6,015",210,"3,575","14,050","10,240","1,495","3,655",815,105,"14,980","5,880","19,520","2,485","7,965","7,230","9,270","4,220",300,"155,630"
