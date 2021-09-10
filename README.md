@@ -1,32 +1,23 @@
-# Women In Tech -- Demographic and Regional Differences
+# Women In Tech
 
-In order to elaborate my report, I used the following:<br>
+This study is the work of a very engaged team, put together to deliver a picture of the situation of women in technology in Scotland.<br>
 
-Two excel files with contact data and pupil demographic information of public schools in Scotland. Both were downloaded from the website of the Education Directorate, Scottish Government:<br>
-- 1--School+level+summary+statistics+2020.xlsx<br>
-- 2--School+Contacts+List+April+2021.xlsx<br>
+This project was divided into several categories, following the different academic paths in the country:<br>
+
+ - schools<br>
+ - colleges<br>
+ - universities<br>
+ - qualifications<br>
+ - etc<br>
+
+More academic items will be included in the future, like apprenticenships.<br>
+
+The team includes the following members:
+
+Ester Giménez (acting as project manager/coordinator) - schools and colleges
+Kelsey Pearson - universities <br>
+Neha Jain - SQA qualifications and subject (awards) distribution <br>
+Ryan Murphy - SQA qualifications and gender distribution <br>
+
+This is the final project for the PDA in Data Analysis, Cohort 1, 2021 of Code Division, Glasgow, Scotland. For more information about this PDA or the project, please contact Frank Duffy, frankduffy@codedivision.co.uk or any one of us in GitHub. <br> 
 <br>
-
-The compilation and correction of contact data, made from the two files above, is in this file:<br>
-- 0--School+level+summary+statistics+2020+compiled+values.xlsx
-<br>
-
-As additional data, the compilation of the contact data of independent schools, which are members of the SCIS (data compiled from their website) are in this file:<br>
-- 3--Sec-Ind-Schools.xlsx<br>
-
-This data was not used in the study, as it does not contain pupil demographics.<br>
-<br>
-
-The geographical data used for the Geopandas maps is in this file:<br>
-- Local_Authority_Boundaries_-_Scotland.zip<br>
-<br>
-
-My report in word format:<br>
-- EsterGimenez-WomenInTech-Locations.wp<br>
-<br>
-
-My Jupiter Notebook:<br>
-- WomenInTech-Locations.ipynb<br>
-<br>
-
-All references to the websites used and where to find the files are in my report.
