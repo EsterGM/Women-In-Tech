@@ -31,7 +31,6 @@ __6.-  Stow College__</br>
 </br></br>
 There are another two notebooks (one for Software Development and another for Web development), that show the pupil distribution by college name, year and region and no geographical information was needed.</br>
 
-
 __7.- James Watt College__</br>
 - The previous campus in Greenock joined West College in  2013.</br>
 - The campus in Kilwinning merged with Ayrshire College the same year.</br>
@@ -45,3 +44,6 @@ __9.- Jewel and Esk College__</br>
 	It had 2 campuses (Milton Road in Edinburgh and Eskbank in Dalkeith, Midlothian), which merged with another 2 colleges in Edinburgh city: Telford College and Stevenson College. The 4 colleges became campuses of the new Edinburgh College in 2012.</br>
 </br>
 It is not possible to find geographical coordinates for the ones that do not exist and for colleges that changed their names due to mergers. The "chosen college" follows the latest available information and is listed in column J of the cvs files. </br>
+</br></br>
+There are another two notebooks (one for Software Development and another for Web development), that show the pupil distribution by college name, year and region and no geographical information was needed.
+
