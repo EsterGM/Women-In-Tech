@@ -32,7 +32,7 @@ __6.-  Stow College__</br>
 __7.- James Watt College__</br>
 - The previous campus in Greenock joined West College in  2013.</br>
 - The campus in Kilwinning merged with Ayrshire College the same year.</br>
-</br>
+
 If the datasets specify "Ayrshire College", I used the coordinates in Ayr. If it is specified as "James Watt" alone, I used the coordinates in Kilwinning. When "James Watt" was used together with West College, I used the coordinates in Greenock.</br>
 	
 __8.- West College Scotland__</br>
