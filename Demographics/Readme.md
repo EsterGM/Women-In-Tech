@@ -28,4 +28,4 @@ My Jupiter Notebook:</br>
 - WomenInTech-Locations.ipynb </br>
 </br>
 
-All references to the websites used and where to find the files are in my report.![image](https://user-images.githubusercontent.com/68565604/135055821-fa743b24-66f8-4e50-a778-4222cee7e43d.png)
+All references to the websites used and where to find the files are in my report.
