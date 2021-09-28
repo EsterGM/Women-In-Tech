@@ -2,11 +2,11 @@
 
 In order to elaborate maps of location and gender distribution of colleges, it is necessary to compile a list of geographical coordinates of the colleges. They have more than one campus, which divides this task in several parts: </br>
 
-	- To show a map of Scotland with the locations of the campuses.</br>
+- To show a map of Scotland with the locations of the campuses.</br>
 	</br>
-		This map has no relation with gender distribution in computer science subjects, as we do not know which campuses offer the awards listed by the SQA. More discussion about this in the Jupiter notebook.</br>
+	This map has no relation with gender distribution in computer science subjects, as we do not know which campuses offer the awards listed by the SQA. More discussion about this in the Jupiter notebook.</br>
 		  
-	- Maps of the colleges that offer the courses, as per the Infract database. The names of the campuses are not mentioned, unless they appear during 2005 to 2013, where the majority existed as individual colleges before the mergers in 2013.</br>
+- Maps of the colleges that offer the courses, as per the Infract database. The names of the campuses are not mentioned, unless they appear during 2005 to 2013, where the majority existed as individual colleges before the mergers in 2013.</br>
 
 Due to this, some locations had to be chosen by default, when mapping the recent years. Information about the mergers is given below.  </br>
 
@@ -41,4 +41,4 @@ __8.- West College Scotland__</br>
 __9.- Jewel and Esk College__</br>
 	It had 2 campuses (Milton Road in Edinburgh and Eskbank in Dalkeith, Midlothian), which merged with another 2 colleges in Edinburgh city: Telford College and Stevenson College. The 4 colleges became campuses of the new Edinburgh College in 2012.</br>
 </br>
-It is not possible to find geographical coordinates for the ones that do not exist and for colleges that changed their names due to mergers. The "chosen college" follows the latest available information and is listed in column J of the cvs files. </br>![image](https://user-images.githubusercontent.com/68565604/135059804-06681455-7ecc-43bd-9616-2077a6dc5488.png)
+It is not possible to find geographical coordinates for the ones that do not exist and for colleges that changed their names due to mergers. The "chosen college" follows the latest available information and is listed in column J of the cvs files. </br>
