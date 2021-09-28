@@ -1,0 +1,58 @@
+Region,College,Campus,Postcode,LATITUDE,LONGITUDE,TYPE,local_authority
+Aberdeen and Aberdeenshire,North East Scotland College,Aberdeen Altens Campus,AB12 3LE,57.1160435,-2.07661434,college,Aberdeenshire
+Aberdeen and Aberdeenshire,North East Scotland College,Aberdeen City Campus,AB25 1BN,57.15199,-2.102449,college,Aberdeen City
+Aberdeen and Aberdeenshire,North East Scotland College,Ellon Learning Centre,AB41 8LF,57.3588233,-2.0587612,college,Aberdeenshire
+Aberdeen and Aberdeenshire,North East Scotland College,Fraserburgh Campus,AB43 9GA,57.68555875,-2.026723234,college,Aberdeenshire
+Aberdeen and Aberdeenshire,North East Scotland College,Inverurie Learning Centre,AB51 3SW,57.283608,-2.376769,college,Aberdeenshire
+Aberdeen and Aberdeenshire,North East Scotland College,Scottish Maritime Academy,AB42 2UP,57.4959129,-1.796203641,college,Aberdeenshire
+Ayrshire,Ayrshire College,Ayr Campus,KA8 0EU,55.45840775,-4.611970264,college,South Ayrshire
+Ayrshire,Ayrshire College,Kilmarnock Campus,KA1 3HY,55.61372185,-4.500575417,college,East Ayrshire
+Ayrshire,Ayrshire College,Kilwinnig Campus,KA13 6DE,55.6546108,-4.7034382,college,North Ayrshire
+Ayrshire,Ayrshire College,Largs Campus,KA30 9JX,55.7978223,-4.8613777,college,North Ayrshire
+Borders,Borders College,Galashiels,TD1 3HE,55.6076627,-2.7867926,college,Scottish Borders
+Borders,Borders College,Hawick,TD9 0EH,55.4205951,-2.8000654,college,Scottish Borders
+Borders,Borders College,Newtown St Boswells,TD6 0PL,55.5739563,-2.668766,college,Scottish Borders
+Borders,Borders College,Tweedbank,TD1 3RS,55.6027244,-2.7578528,college,Scottish Borders
+Forth Valley,Forth Valley College,Alloa Campus,FK10 1PX,56.1157971,-3.786199018,college,Clackmannanshire
+Forth Valley,Forth Valley College,Falkirk Campus,FK2 9AD,56.0057521,-3.767831402,college,Falkirk
+Forth Valley,Forth Valley College,Raploch Campus,FK8 1RD,56.12909765,-3.949888081,college,Stirling
+Forth Valley,Forth Valley College,Stirling Campus,FK8 1SE,56.13294865,-3.960350436,college,Stirling
+Dumfries and Galloway,Dumfries & Galloway College,Dumfries Campus,DG1 4FD,55.04689715,-3.584406744,college,Dumfries and Galloway
+Dumfries and Galloway,Dumfries & Galloway College,Stranraer Campus,DG9 7AL,54.9005058,-5.0266011,college,Dumfries and Galloway
+Edinburgh and Lothians,Edinburgh College,Midlothian Campus ,EH22 3FR,55.8826488,-3.080116656,college,Midlothian
+Edinburgh and Lothians,Edinburgh College,Granton Campus,EH5 1QE,55.977335,-3.2471568,college,City of Edinburgh
+Edinburgh and Lothians,Edinburgh College,Milton Road Campus ,EH15 2PP,55.9438437,-3.100725,college,City of Edinburgh
+Edinburgh and Lothians,Edinburgh College,Sighthill Campus ,EH11 4DE,55.92652265,-3.290078065,college,City of Edinburgh
+Fife,Fife College,Dunfermline Campus,KY11 8DY,56.0762008,-3.4101548,college,Fife
+Fife,Fife College,Glenrothes Campus,KY6 2RA,56.1856774,-3.1772934,college,Fife
+Fife,Fife College,Kirkcaldy Campus,KY1 1EX,56.1127038,-3.1644891,college,Fife
+Fife,Fife College,Levenmouth Campus,KY8 1EA,56.1814437,-3.0380222,college,Fife
+Fife,Fife College,Rosyth Campus,KY11 2EA,56.0298743,-3.4485858,college,Fife
+Glasgow,Glasgow Kelvin College,Springburn Campus,G21 4TD,55.8805601,-4.228602726,college,Glasgow City
+Glasgow,Glasgow Kelvin College,East End Campus,G31 3SR,55.8579709,-4.2049125,college,Glasgow City
+Glasgow,Glasgow Kelvin College,Easterhouse Campus,G34 9HZ,55.8681096,-4.117738063,college,Glasgow City
+Glasgow,Glasgow Kelvin College,West End Campus,G20 8LJ,55.8831076,-4.285832497,college,Glasgow City
+Glasgow,Glasgow Clyde College,Anniesland College,G12 0YE,55.8861916,-4.319644419,college,Glasgow City
+Glasgow,Glasgow Clyde College,Cardonald College,G52 3AY,55.8406009,-4.337059787,college,Glasgow City
+Glasgow,Glasgow Clyde College,Langside College,G42 9LB,55.8264051,-4.2653801,college,Glasgow City
+Lanarkshire,South Lanarkshire College,East Kilbride Campus,G75 0NE,55.7534888,-4.1612859,college,South Lanarkshire
+Lanarkshire,New College Lanarkshire,Broadwood Campus,,55.944962,-4.0392096,college,North Lanarkshire
+Lanarkshire,New College Lanarkshire,Coatbridge Campus,ML5 3LS,55.8647498,-4.016186028,college,North Lanarkshire
+Lanarkshire,New College Lanarkshire,Cumbernauld Campus,G67 1HU,55.9452487,-3.9919162,college,North Lanarkshire
+Lanarkshire,New College Lanarkshire,Hamilton Campus,ML3 0AY,55.7816804,-4.0505603,college,South Lanarkshire
+Lanarkshire,New College Lanarkshire,Motherwell Campus,ML1 2TX,55.784356,-3.968653,college,North Lanarkshire
+Lanarkshire,New College Lanarkshire,Kirkintilloch Campus,G66 1NH,55.9363179,-4.159206,college,East Dunbartonshire
+Tayside,Dundee and Angus College,Dundee College,DD3 8LE,56.4845951,-2.976653571,college,Dundee City
+Tayside,Dundee and Angus College,Angus College,DD11 3EA,56.5593734,-2.594942199,college,Angus
+West,West College Scotland,Clydebank College,G81 1,55.8964602,-4.4053163,college,West Dunbartonshire
+West,West College Scotland,James Watt College,PA15 1EN,55.9488053,-4.7545022,college,Inverclyde
+West,West College Scotland,Reid Kerr College,PA3 4,55.852463,-4.4202858,college,Renfrewshire
+West Lothian,West Lothian College,West Lothian College,EH54 7EP,55.88416975,-3.524881151,college,West Lothian
+Independent,Newbattle Abbey College,Newbattle Abbey College,EH22 3LL,55.88282275,-3.066739309,college,Midlothian
+SRUC,Scotland's Rural College (SRUC),Barony College,DG1 3NE,55.1763401,-3.5401877,college,Dumfries and Galloway
+SRUC,Scotland's Rural College (SRUC),Elmwood College,KY15 4JB,56.3192186,-3.030730042,college,Fife
+SRUC,Scotland's Rural College (SRUC),SRUC Oatridge Agricultural College,EH52 6NH,55.9471032,-3.5167622,college,West Lothian
+SRUC,Scotland's Rural College (SRUC),Scottish Agricultural College,EH9 3JG,55.9217346,-3.1794014,college,City of Edinburgh
+Glasgow,City of Glasgow College,Central College,G4 0RF,55.8631845,-4.246918,college,Glasgow City
+Glasgow,City of Glasgow College,Glasgow College of Nautical Studies,G5 9XB,55.8520679,-4.2513012,college,Glasgow City
+Glasgow,City of Glasgow College,Glasgow Metropolitan College,G4 0RF,55.8631845,-4.246918,college,Glasgow City
