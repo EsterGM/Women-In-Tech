@@ -1,4 +1,5 @@
-Women In Tech -- Demographic and Regional Differences
+# Women In Tech -- Demographic and Regional Differences
+
 In order to elaborate my report, I used the following:
 
 Two excel files with contact data and pupil demographic information of public schools in Scotland. Both were downloaded from the website of the Education Directorate, Scottish Government:
