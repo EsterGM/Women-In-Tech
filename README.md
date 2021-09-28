@@ -28,6 +28,9 @@ __5.- Central Glasgow College__</br>
 
 __6.-  Stow College__</br>
 	Merged with John Wheatley College and North Glasgow College in 2013 to form Glasgow Kelvin College. </br>Currently does not exist anymore (the building is still standing in Garnethill).</br>
+</br></br>
+There are another two notebooks (one for Software Development and another for Web development), that show the pupil distribution by college name, year and region and no geographical information was needed.</br>
+
 
 __7.- James Watt College__</br>
 - The previous campus in Greenock joined West College in  2013.</br>
