@@ -1,0 +1,169 @@
+Year,"College Region (Glasgow, Highlands, etc)",College names (actual for each year),Male,Female,Inf ref/pr not say,Difference,Female real
+2019,Aberdeen and Aberdeenshire,NE Scotland Col,76,9,0,0,9
+2019,Dundee and Angus,Dundee & Angus Col,31,5,1,0,5
+2019,Edinburgh and Lothians,Edinburgh College,54,6,1,0,6
+2019,Fife,Fife College,58,8,1,0,8
+2019,Forth Valley,Forth Valley Col,20,0,1,0,0
+2019,Glasgow,City of Glasg Coll,79,12,0,0,12
+2019,Glasgow,Glasgow Clyde Col,94,15,0,0,15
+2019,Lanarkshire,New Col Lanarkshir,17,5,0,4,1
+2019,West,West College Scot.,20,0,0,0,0
+2019,West Lothian,West Lothian Coll,15,5,0,3,2
+2018,Aberdeen and Aberdeenshire,NE Scotland Col,85,12,0,0,12
+2018,Dundee and Angus,Dundee & Angus Col,40,5,1,0,5
+2018,Edinburgh and Lothians,Edinburgh College,60,5,2,0,5
+2018,Fife,Fife College,47,5,0,1,4
+2018,Forth Valley,Forth Valley Col,32,5,0,4,1
+2018,Glasgow,City of Glasg Coll,99,10,0,0,10
+2018,Glasgow,Glasgow Clyde Col,99,13,0,0,13
+2018,Lanarkshire,New Col Lanarkshir,21,0,0,0,0
+2018,West,West College Scot.,14,5,0,3,2
+2018,West Lothian,West Lothian Coll,16,5,0,4,1
+2017,Aberdeen and Aberdeenshire,NE Scotland Col,86,7,0,0,7
+2017,Dundee and Angus,Dundee & Angus Col,45,5,0,1,4
+2017,Edinburgh and Lothians,Edinburgh College,65,12,0,0,12
+2017,Fife,Fife College,54,5,0,1,4
+2017,Forth Valley,Forth Valley Col,29,5,0,3,2
+2017,Glasgow,City of Glasg Coll,118,11,0,0,11
+2017,Glasgow,Glasgow Clyde Col,115,18,0,0,18
+2017,Lanarkshire,New Col Lanarkshir,37,5,0,3,2
+2017,West,West College Scot.,21,5,0,4,1
+2017,West Lothian,West Lothian Coll,11,5,0,4,1
+2016,Aberdeen and Aberdeenshire,NE Scotland Col,76,8,0,0,8
+2016,Dundee and Angus,Dundee & Angus Col,50,8,0,0,8
+2016,Edinburgh and Lothians,Edinburgh College,51,8,0,0,8
+2016,Fife,Fife College,51,5,0,0,5
+2016,Forth Valley,Forth Valley Col,32,5,0,3,2
+2016,Glasgow,City of Glasg Coll,117,9,0,0,9
+2016,Glasgow,Glasgow Clyde Col,122,20,0,0,20
+2016,Lanarkshire,New Col Lanarkshir,35,7,0,0,7
+2016,West,West College Scot.,16,5,0,3,2
+2016,West Lothian,West Lothian Coll,14,5,0,2,3
+2015,Aberdeen and Aberdeenshire,NE Scotland Col,74,5,0,0,5
+2015,Dundee and Angus,Dundee & Angus Col,58,7,0,0,7
+2015,Edinburgh and Lothians,Edinburgh College,50,5,0,2,3
+2015,Fife,Fife College,57,6,0,0,6
+2015,Forth Valley,Forth Valley Col,36,5,0,3,2
+2015,Glasgow,City of Glasg Coll,85,8,0,0,8
+2015,Glasgow,Glasgow Clyde Col,152,20,0,0,20
+2015,Glasgow,Glasgow Kelvin Col,13,0,0,0,0
+2015,Lanarkshire,New Col Lanarkshir,33,5,0,4,1
+2015,West,West College Scot.,13,5,0,3,2
+2015,West Lothian,West Lothian Coll,19,5,0,4,1
+2014,Aberdeen and Aberdeenshire,NE Scotland Col,67,5,0,0,5
+2014,Ayrshire,Ayrshire College,7,5,0,4,1
+2014,Dundee and Angus,Dundee & Angus Col,67,5,0,0,5
+2014,Edinburgh and Lothians,Edinburgh College,31,0,0,0,0
+2014,Fife,Fife College,29,0,0,0,0
+2014,Forth Valley,Forth Valley Col,47,5,0,4,1
+2014,Glasgow,City of Glasg Coll,75,11,0,0,11
+2014,Glasgow,Glasgow Clyde Col,151,11,0,0,11
+2014,Glasgow,Glasgow Kelvin Col,26,5,0,1,4
+2014,Lanarkshire,New Col Lanarkshir,16,5,0,4,1
+2014,West,West College Scot.,20,7,0,0,7
+2014,West Lothian,West Lothian Coll,17,5,0,2,3
+2013,Aberdeen and Aberdeenshire,Aberdeen College,80,8,0,0,8
+2013,Ayrshire,Kilmarnock College,13,0,0,0,0
+2013,Dundee and Angus,Dundee College,58,5,0,2,3
+2013,Edinburgh and Lothians,Edinburgh College,20,0,0,0,0
+2013,Fife,Adam Smith College,8,5,0,4,1
+2013,Forth Valley,Forth Valley Colle,54,5,0,2,3
+2013,Glasgow,Anniesland College,20,5,0,3,2
+2013,Glasgow,Cardonald College,18,5,0,3,2
+2013,Glasgow,City of Glasg Coll,76,8,0,0,8
+2013,Glasgow,Langside College,17,5,0,3,2
+2013,Glasgow,Stow College,8,0,0,0,0
+2013,Lanarkshire,Motherwell College,15,5,0,4,1
+2013,West,West College Scot.,5,5,0,5,0
+2012,Aberdeen and Aberdeenshire,Aberdeen College,45,5,0,1,4
+2012,Ayrshire,Kilmarnock College,11,5,0,4,1
+2012,Dundee and Angus,Dundee College,55,6,0,0,6
+2012,Edinburgh and Lothians,Edin Telford Col,9,0,0,0,0
+2012,Fife,Adam Smith College,22,5,0,4,1
+2012,Forth Valley,Forth Valley Colle,60,5,0,3,2
+2012,Glasgow,Cardonald College,13,5,0,1,4
+2012,Glasgow,City of Glasg Coll,76,5,0,0,5
+2012,Glasgow,Langside College,13,5,0,3,2
+2012,Glasgow,Stow College,11,5,0,3,2
+2012,Lanarkshire,Motherwell College,16,5,0,4,1
+2011,Aberdeen and Aberdeenshire,Aberdeen College,51,6,0,0,6
+2011,Ayrshire,James Watt College,5,0,0,0,0
+2011,Ayrshire,Kilmarnock College,11,5,0,4,1
+2011,Dundee and Angus,Dundee College,41,5,0,0,5
+2011,Edinburgh and Lothians,Edin Telford Col,15,5,0,4,1
+2011,Fife,Adam Smith College,15,5,0,2,3
+2011,Forth Valley,Forth Valley Colle,39,7,0,0,7
+2011,Glasgow,Cardonald College,38,5,0,2,3
+2011,Glasgow,City of Glasg Coll,54,11,0,0,11
+2011,Glasgow,Langside College,10,5,0,4,1
+2011,Glasgow,Stow College,5,0,0,0,0
+2011,Lanarkshire,Motherwell College,10,5,0,3,2
+2011,West,Reid Kerr College,5,0,0,0,0
+2010,Aberdeen and Aberdeenshire,Aberdeen College,46,6,0,0,6
+2010,Ayrshire,Kilmarnock College,7,0,0,0,0
+2010,Dundee and Angus,Dundee College,50,6,0,0,6
+2010,Edinburgh and Lothians,Edin Telford Col,26,5,0,3,2
+2010,Fife,Adam Smith College,20,5,0,3,2
+2010,Fife,Carnegie College,5,5,0,5,0
+2010,Forth Valley,Forth Valley Colle,43,6,0,0,6
+2010,Glasgow,Cardonald College,32,5,0,3,2
+2010,Glasgow,Central Glasgow,29,5,0,1,4
+2010,Glasgow,Langside College,13,5,0,1,4
+2010,Glasgow,Stow College,5,0,0,0,0
+2010,Lanarkshire,Motherwell College,15,5,0,4,1
+2009,Aberdeen and Aberdeenshire,Aberdeen College,29,5,0,1,4
+2009,Aberdeen and Aberdeenshire,Banff and Buchan,5,0,0,0,0
+2009,Ayrshire,Kilmarnock College,7,5,0,1,4
+2009,Dundee and Angus,Dundee College,17,5,0,4,1
+2009,Edinburgh and Lothians,Edin Telford Col,28,0,0,0,0
+2009,Forth Valley,Forth Valley Colle,27,5,0,3,2
+2009,Glasgow,Anniesland College,10,5,0,3,2
+2009,Glasgow,Cardonald College,34,5,0,3,2
+2009,Glasgow,Central Glasgow,32,5,0,0,5
+2009,Glasgow,Langside College,7,0,0,0,0
+2009,Glasgow,Stow College,5,0,0,0,0
+2009,Lanarkshire,Motherwell College,13,0,0,0,0
+2008,Aberdeen and Aberdeenshire,Aberdeen College,24,5,0,4,1
+2008,Aberdeen and Aberdeenshire,Banff and Buchan,18,0,0,0,0
+2008,Ayrshire,Kilmarnock College,5,0,0,0,0
+2008,Dundee and Angus,Dundee College,21,5,0,4,1
+2008,Edinburgh and Lothians,Edin Telford Col,21,5,0,3,2
+2008,Forth Valley,Forth Valley Colle,13,5,0,4,1
+2008,Glasgow,Cardonald College,37,5,0,3,2
+2008,Glasgow,Central Glasgow,32,6,0,0,6
+2008,Glasgow,Langside College,8,5,0,4,1
+2008,Glasgow,Stow College,5,5,0,5,0
+2008,Lanarkshire,Motherwell College,10,5,0,2,3
+2008,West,Reid Kerr College,5,5,0,5,0
+2007,Aberdeen and Aberdeenshire,Aberdeen College,13,5,0,3,2
+2007,Aberdeen and Aberdeenshire,Banff and Buchan,18,5,0,3,2
+2007,Ayrshire,Kilmarnock College,5,0,0,0,0
+2007,Dundee and Angus,Dundee College,27,5,0,0,5
+2007,Edinburgh and Lothians,Edin Telford Col,10,5,0,3,2
+2007,Glasgow,Cardonald College,32,5,0,2,3
+2007,Glasgow,Langside College,17,6,0,0,6
+2007,Glasgow,Stow College,5,5,0,5,0
+2006,Aberdeen and Aberdeenshire,Aberdeen College,12,5,0,3,2
+2006,Aberdeen and Aberdeenshire,Banff & Buchan C,9,5,0,1,4
+2006,Ayrshire,James Watt College,10,5,0,4,1
+2006,Ayrshire,Kilmarnock College,6,0,0,0,0
+2006,Dundee and Angus,Dundee College,39,5,0,3,2
+2006,Edinburgh and Lothians,Edin Telford Col,40,5,0,1,4
+2006,Forth Valley,Forth Valley Colle,14,5,0,4,1
+2006,Glasgow,Cardonald College,30,5,0,0,5
+2006,Glasgow,Langside College,14,5,0,4,1
+2006,Lanarkshire,Cumbernauld Colleg,5,5,0,2,3
+2006,Lanarkshire,Motherwell College,6,0,0,0,0
+2006,West,Reid Kerr College,5,0,0,0,0
+2005,Aberdeen and Aberdeenshire,Aberdeen College,12,5,0,3,2
+2005,Aberdeen and Aberdeenshire,Banff & Buchan C,8,5,0,0,5
+2005,Ayrshire,James Watt College,12,5,0,4,1
+2005,Ayrshire,Kilmarnock College,5,5,0,5,0
+2005,Dundee and Angus,Dundee College,47,5,0,3,2
+2005,Edinburgh and Lothians,Edin Telford Col,20,5,0,2,3
+2005,Fife,Adam Smith College,6,0,0,0,0
+2005,Glasgow,Anniesland College,9,0,0,0,0
+2005,Glasgow,Cardonald College,34,5,0,2,3
+2005,Glasgow,Langside College,14,5,0,1,4
+2005,Lanarkshire,Motherwell College,5,0,0,0,0
+2005,Lanarkshire,South Lanarksh.Col,14,5,0,3,2
