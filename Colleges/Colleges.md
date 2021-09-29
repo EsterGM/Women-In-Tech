@@ -46,4 +46,4 @@ It is not possible to find geographical coordinates for the ones that do not exi
 </br></br>
 __****__
 </br>
-There are another two notebooks (one for Software Development and another for Web development), that show the pupil distribution by college name, year and region and no geographical information was needed.![image](https://user-images.githubusercontent.com/68565604/135243513-c29ecbfa-43e8-45c6-bcd0-9437443c4095.png)
+There are another two notebooks (one for Software Development and another for Web development), that show the pupil distribution by college name, year and region and no geographical information was needed.
