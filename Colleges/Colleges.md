@@ -2,11 +2,11 @@
 
 In order to elaborate maps of location and gender distribution of colleges, it is necessary to compile a list of geographical coordinates of the colleges. They have more than one campus, which divides this task in several parts: </br>
 
-	- To show a map of Scotland with the locations of the campuses.</br>
+- To show a map of Scotland with the locations of the campuses.</br>
 	</br>
-	This map has no relation with gender distribution in computer science subjects, as we do not know which campuses offer the awards listed by the SQA. More discussion about this in the Jupiter notebook.</br>
+   This map has no relation with gender distribution in computer science subjects, as we do not know which campuses offer the awards listed by the SQA. More discussion about this in the Jupiter notebook.</br>
 		  
-	- Maps of the colleges that offer the courses, as per the Infract database. The names of the campuses are not mentioned, unless they appear during 2005 to 2013, where the majority existed as individual colleges before the mergers in 2013.</br>
+- Maps of the colleges that offer the courses, as per the Infract database. The names of the campuses are not mentioned, unless they appear during 2005 to 2013, where the majority existed as individual colleges before the mergers in 2013.</br>
 
 Due to this, some locations had to be chosen by default, when mapping the recent years. Information about the mergers is given below.  </br>
 
@@ -30,10 +30,10 @@ __6.-  Stow College__</br>
 	Merged with John Wheatley College and North Glasgow College in 2013 to form Glasgow Kelvin College. </br>Currently does not exist anymore (the building is still standing in Garnethill).</br>
 
 __7.- James Watt College__</br>
-	- The previous campus in Greenock joined West College in  2013.</br>
-	- The campus in Kilwinning merged with Ayrshire College the same year.</br>
+- The previous campus in Greenock joined West College in  2013.</br>
+- The campus in Kilwinning merged with Ayrshire College the same year.</br>
 	
-	If the datasets specify "Ayrshire College", I used the coordinates in Ayr. If it is specified as "James Watt" alone, I used the coordinates in Kilwinning. When "James Watt" was used together with West College, I used the coordinates in Greenock.</br>
+If the datasets specify "Ayrshire College", I used the coordinates in Ayr. If it is specified as "James Watt" alone, I used the coordinates in Kilwinning. When "James Watt" was used together with West College, I used the coordinates in Greenock.</br>
 	
 __8.- West College Scotland__</br>
 	Created on 1 August 2013 by the merger of Clydebank College, Reid Kerr College in Paisley and James Watt College in Greenock. </br>
